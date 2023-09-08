@@ -1,2 +1,1 @@
-# MyJenkins
-Jenkinsdemo 
+This repo is to test jenkins 
